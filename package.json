@@ -1,0 +1,43 @@
+{
+  "name": "telebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mtproto/core": "3.1.1",
+    "@vitalets/google-translate-api": "^3.0.0",
+    "airgram": "^3.0.2",
+    "axios": "^0.19.2",
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "feedparser": "^2.2.10",
+    "ffi-napi": "^2.5.0",
+    "language-grammar-api": "^1.1.6",
+    "mathjs": "^7.0.0",
+    "mongoose": "^5.9.15",
+    "node-fetch": "^2.6.0",
+    "node-gyp": "^6.1.0",
+    "node-jre": "^0.2.3",
+    "node-telegram-bot-api": "^0.40.0",
+    "nodejs-weather-app": "^1.9.0",
+    "openweather-apis": "^4.3.1",
+    "request": "^2.88.2",
+    "rss-parser": "^3.7.6",
+    "tdl": "^6.1.0",
+    "tdl-tdlib-ffi": "^1.4.0",
+    "tdlnode": "^1.2.0",
+    "telegraf": "^3.38.0",
+    "telegraf-inline-menu": "^4.0.1",
+    "telegram-mtproto": "^2.2.2",
+    "tglib": "^3.0.5",
+    "translate": "^1.1.2",
+    "yandex-speller": "^4.1.0",
+    "yandex.translate": "^1.0.1"
+  }
+}
